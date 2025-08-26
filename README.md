@@ -26,8 +26,6 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
 - *Toughness Improvement of Lightweight Concrete Using Fibers & Rubber* – Construction and Building Materials (2024)  
 - *Multi-Hazard Mapping for Bangladesh using GIS* – IUBAT Review (2019)  
 
-📌 See more: [Google Scholar](https://scholar.google.com/citations?user=hq3hFegAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Nahidul-Islam-7) | [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-9813-3297)  
-
 ---
 
 ## 🛠 Tools & Skills
@@ -36,8 +34,8 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
 ---
 
 ## 📌 Academic & Professional Journey
-- **Assistant Professor** – Civil Engineering, IUBAT (2020–Present)  
-- **Lecturer** – Civil Engineering, IUBAT & Presidency University (2018–2020)  
+- **Lecturer** – Department of Civil Engineering, IUBAT (2018–Present)  
+- **Lecturer** – Department of Civil Engineering Presidency University (2018)  
 - **Research Assistant** – IUBAT (2015–2017)  
 
 ---
