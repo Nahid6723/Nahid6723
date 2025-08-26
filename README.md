@@ -2,12 +2,12 @@
 
 🎓 **Faculty**, Department of Civil Engineering  
 📍 IUBAT—International University of Business Agriculture and Technology, Dhaka, Bangladesh  
-📧 [n.islam@iubat.edu](mailto:n.islam@iubat.edu)  
+
 
 ---
 
 ## 👨‍🏫 About Me
-I am a faculty member and researcher in **Geotechnical Engineering**, specializing in **numerical modeling, soil mechanics, and railway geohazard analysis**. I completed my **MSc in Civil Engineering** at *Central South University, China*. My work bridges **fundamental civil engineering** with **modern computational methods (FEM, DEM, AI, GIS, Remote Sensing)** to address challenges in **infrastructure safety, sustainable mobility, and disaster resilience**.
+I am a faculty member and researcher in *Geotechnical Engineering*, specializing in *numerical modeling, soil mechanics, and railway geohazard analysis*. I completed my *MSc in Civil Engineering* at *Central South University, China*. My work bridges *fundamental civil engineering** with *modern computational methods (FEM, DEM, AI, GIS, Remote Sensing)* to address challenges in *infrastructure safety, sustainable mobility, and disaster resilience*.
 
 ---
 
@@ -23,7 +23,7 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
  ### 📰 Journal Papers
 - *Study on Field and Numerical Analysis of Karst Collapse as Railway Hazard* – ICE Geotechnical Engineering (2024)  
 - *Prediction of Railway Embankment Slope Hydro-Mechanical Properties* – Applied Science (2024)  
-- *Comparison of Track Quality Indexes in Beijing–Guangzhou Railway* – Transportation Research Record (2024)  
+- *Comparison of Track Quality Indexes in Beijing–Guangzhou Railway* – Transportation Research Record (2025)  
 - *Toughness Improvement of Lightweight Concrete Using Fibers & Rubber* – Construction and Building Materials (2024)  
 - *Multi-Hazard Mapping for Bangladesh using GIS* – IUBAT Review (2019)  
 
