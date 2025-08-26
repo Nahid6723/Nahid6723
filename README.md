@@ -20,11 +20,16 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
 ---
 
 ## 📑 Publications
+ ### 📰 Journal Papers
 - *Study on Field and Numerical Analysis of Karst Collapse as Railway Hazard* – ICE Geotechnical Engineering (2024)  
 - *Prediction of Railway Embankment Slope Hydro-Mechanical Properties* – Applied Science (2024)  
-- *Comparison of Track Quality Indexes in Beijing–Guangzhou Railway* – Transportation Research Record (2025)  
+- *Comparison of Track Quality Indexes in Beijing–Guangzhou Railway* – Transportation Research Record (2024)  
 - *Toughness Improvement of Lightweight Concrete Using Fibers & Rubber* – Construction and Building Materials (2024)  
 - *Multi-Hazard Mapping for Bangladesh using GIS* – IUBAT Review (2019)  
+
+### 📘 Conference Papers
+- *Vulnerability Analysis for Sustainable Development against Flood Hazard and Relief Distribution: A Case Study of 2017 Flood of Bangladesh* – 13th International Knowledge Globalization Conference, Dhaka, Bangladesh (2019)  
+- *Investigation on Crashworthiness Performance of 3D Printed Thin-walled Structures Reinforced with Continuous Basalt Fiber and PLA* – International Conference on Mechanical and Materials Science Engineering: Innovation and Research (ICMMSE-IR2023) (2024)
 
 ---
 
