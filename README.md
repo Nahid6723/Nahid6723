@@ -40,7 +40,7 @@ I am a faculty member and researcher in *Geotechnical Engineering*, specializing
 
 ## 📌 Academic & Professional Journey
 - **Lecturer** – Department of Civil Engineering, IUBAT (2018–Present)  
-- **Lecturer** – Department of Civil Engineering Presidency University (2018)  
+- **Lecturer** – Department of Civil Engineering, Presidency University (2018)  
 - **Research Assistant** – IUBAT (2015–2017)  
 
 ---
