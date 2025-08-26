@@ -31,12 +31,7 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
 ---
 
 ## 🛠 Tools & Skills
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)  
-![ABAQUS](https://img.shields.io/badge/ABAQUS-002A5B?style=for-the-badge)  
-![ETABS](https://img.shields.io/badge/ETABS-2C3E50?style=for-the-badge)  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-4DB6AC?style=for-the-badge&logo=esri&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Research Tools](https://img.shields.io/badge/VOSviewer%20%7C%20CiteSpace-FF9800?style=for-the-badge)  
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)  ![ABAQUS](https://img.shields.io/badge/ABAQUS-002A5B?style=for-the-badge) ![ETABS](https://img.shields.io/badge/ETABS-2C3E50?style=for-the-badge)  ![ArcGIS](https://img.shields.io/badge/ArcGIS-4DB6AC?style=for-the-badge&logo=esri&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Research Tools](https://img.shields.io/badge/VOSviewer%20%7C%20CiteSpace-FF9800?style=for-the-badge)  
 
 ---
 
@@ -55,7 +50,4 @@ I am a faculty member and researcher in **Geotechnical Engineering**, specializi
 ---
 
 ## 🌍 Connect with Me
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hq3hFegAAAAJ&hl=en)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nahidul-Islam-7)  
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0004-9813-3297)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidul-islam-b8b482225/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hq3hFegAAAAJ&hl=en)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nahidul-Islam-7)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0004-9813-3297)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidul-islam-b8b482225/)
