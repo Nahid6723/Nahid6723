@@ -1,7 +1,4 @@
 ### Hi there 👋, my name is Nahidul Islam
-#### I am working as a faculty member in the department of civil engineering, IUBAT.
-
-
 I am Nahidul Islam, currently working as a faculty member in the Department of Civil Engineering at the International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh. I completed my B.Sc. in Civil Engineering from IUBAT and my M.Sc. in Geotechnical Engineering from Central South University, China, where I gained expertise in soil mechanics, foundation engineering, and advanced computational methods. Alongside my teaching and research in geotechnical engineering, I am deeply interested in machine learning and data-driven modeling, particularly their applications in civil engineering problems. I am passionate about integrating engineering fundamentals with emerging technologies to address real-world challenges in infrastructure, urban mobility, and sustainability.
 
 Skills: ABAQUS/Python
