@@ -7,11 +7,7 @@
 ---
 
 ## 👨‍🏫 About Me
-I am a faculty member and researcher in **Geotechnical Engineering**, specializing in **numerical modeling, soil mechanics, and railway geohazard analysis**.  
-
-I completed my **MSc in Civil Engineering** at *Central South University, China*.  
-
-My work bridges **fundamental civil engineering** with **modern computational methods (FEM, DEM, AI, GIS, Remote Sensing)** to address challenges in **infrastructure safety, sustainable mobility, and disaster resilience**.
+I am a faculty member and researcher in **Geotechnical Engineering**, specializing in **numerical modeling, soil mechanics, and railway geohazard analysis**. I completed my **MSc in Civil Engineering** at *Central South University, China*. My work bridges **fundamental civil engineering** with **modern computational methods (FEM, DEM, AI, GIS, Remote Sensing)** to address challenges in **infrastructure safety, sustainable mobility, and disaster resilience**.
 
 ---
 
@@ -62,4 +58,4 @@ My work bridges **fundamental civil engineering** with **modern computational me
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=hq3hFegAAAAJ&hl=en)  
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Nahidul-Islam-7)  
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0004-9813-3297)  
-[![LinkedIn] (https://www.linkedin.com/in/nahidul-islam-b8b482225/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahidul-islam-b8b482225/)
