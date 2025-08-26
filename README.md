@@ -6,10 +6,5 @@ I am Nahidul Islam, currently working as a faculty member in the Department of C
 
 Skills: ABAQUS/Python
 
-- 🔭 I’m currently working on IUBAT - International University of Business Agriculture and Technology 
-- 🌱 I’m currently learning Machine Learning 
-- 📫 How to reach me: n.islam@iubat.edu 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nahid6723)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nahid.6723/)  
 
